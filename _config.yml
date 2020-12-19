@@ -2,7 +2,9 @@ title: Blog page :)
 author: tris
 email: tris.programming@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-This description has no real object or point 
+This description has no real object or point. This serves no
+puropse except that when you have read this you will be annoyed
+that you have wasted so much time reading this pointless statement.
 # social links
 twitter_username: 404 - does not exist # DO NOT include the @ character, or else the build will fail!
 github_username:  JadedBracelet # DO NOT include the @ character, or else the build will fail!
